@@ -185,7 +185,7 @@ flowchart TB
         MATCH["Fuzzy Matching"]
     end
 
-    DB[("PostgreSQL Database")]
+    DB[("SQL Server Database")]
 
     WEB --> API
     MOB --> API
